@@ -1,0 +1,21 @@
+.calculateButtons {
+    height: 90px;
+    width: 90px;
+    border-radius: 30px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f1f1;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;
+    cursor: pointer;
+}
+
+.res {
+    width: 180px;
+    background-color: #d99c34;
+}
